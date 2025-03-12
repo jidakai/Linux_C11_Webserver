@@ -1,0 +1,10 @@
+2024-06-16 19:00:10.023195 [info] : ========== Server init ==========
+2024-06-16 19:00:10.023232 [info] : Port:1316, OpenLinger: false
+2024-06-16 19:00:10.023237 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-06-16 19:00:10.023241 [info] : LogSys level: 1
+2024-06-16 19:00:10.023244 [info] : srcDir: /home/earfish/project/WebServer-master/bin/resources/
+2024-06-16 19:00:10.023248 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-06-16 19:00:10.023252 [info] : ========== Server start ==========
+2024-06-16 19:00:24.749044 [info] : Client[18](192.168.40.1:39383) in, userCount:1
+2024-06-16 19:00:24.749665 [info] : Client[18] in!
+2024-06-16 19:00:24.882221 [info] : Client[19](192.168.40.1:39639) in, userCount:2
